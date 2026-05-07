@@ -1,0 +1,14 @@
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\Asal Sayı Projesi\bin\Debug\net10.0\Asal Sayı Projesi.exe
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\Asal Sayı Projesi\bin\Debug\net10.0\Asal Sayı Projesi.deps.json
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\Asal Sayı Projesi\bin\Debug\net10.0\Asal Sayı Projesi.runtimeconfig.json
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\Asal Sayı Projesi\bin\Debug\net10.0\Asal Sayı Projesi.dll
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\Asal Sayı Projesi\bin\Debug\net10.0\Asal Sayı Projesi.pdb
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\Asal Sayı Projesi\obj\Debug\net10.0\Asal Sayı Projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\Asal Sayı Projesi\obj\Debug\net10.0\Asal Sayı Projesi.AssemblyInfoInputs.cache
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\Asal Sayı Projesi\obj\Debug\net10.0\Asal Sayı Projesi.AssemblyInfo.cs
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\Asal Sayı Projesi\obj\Debug\net10.0\Asal Sayı Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\Asal Sayı Projesi\obj\Debug\net10.0\Asal Sayı Projesi.dll
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\Asal Sayı Projesi\obj\Debug\net10.0\refint\Asal Sayı Projesi.dll
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\Asal Sayı Projesi\obj\Debug\net10.0\Asal Sayı Projesi.pdb
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\Asal Sayı Projesi\obj\Debug\net10.0\Asal Sayı Projesi.genruntimeconfig.cache
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\Asal Sayı Projesi\obj\Debug\net10.0\ref\Asal Sayı Projesi.dll
